@@ -1,6 +1,3 @@
-# Regularization Notebooks Repository 📚🔍
-
-Welcome to the Regularization Notebooks repository! Explore the concepts and implementations of regularization techniques in machine learning. From Lasso and Ridge regression to a comprehensive overview in the All_Regularization notebook, this repository covers a range of regularization methods.
 
 # Regularization Notebooks Repository 📚🔍
 
